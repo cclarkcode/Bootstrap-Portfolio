@@ -114,3 +114,62 @@ body {
 	margin-bottom: 100px;
 }
 
+@media screen and (max-width: 768px) {
+
+	.body-head {
+
+		padding-top: 10px;
+	}
+
+	.headShot {
+
+	margin: 0 10px 10px 0;
+
+	}
+
+	.mainBody {
+
+		margin: 0 15px;
+	}
+
+	.connect-panel {
+
+		width: auto;
+		margin: 15px;
+		padding: 0;
+
+	}
+
+	.connect-image {
+
+		width: 60px;
+		padding-right: 15px;
+	}
+	
+	.head-placement {
+
+		padding: 0;
+
+	}
+
+	.nav-head {
+
+		width: 100%;
+		text-align: center;
+
+
+	}
+	.site-nav {
+		display: inline-block;
+		float: left;
+		text-align: center;
+		width: 33.3%;
+	}
+
+	/*.form-control {
+		padding-bottom: 20px;
+	}*/
+
+
+
+}
